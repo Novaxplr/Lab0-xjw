@@ -4,6 +4,6 @@
 int main()
 {
     // TODO completed: print a custom sentence.
-    printf("Hello, this is my Lab0 assignment!\n");
+    printf("Hello from main branch!\n");
     return 0;
 }
