@@ -1,7 +1,9 @@
+
 #include <stdio.h>
 
 int main()
 {
-    // @TODO: print a sentence you want.
-    printf("Hello, world!\n");
+    // TODO completed: print a custom sentence.
+    printf("Hello, GitLab! My Lab0 experiment has started.\n");
+    return 0;
 }
